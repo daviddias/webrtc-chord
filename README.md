@@ -3,8 +3,6 @@ webrtc-chord
 
 **tl;dr** webrtc-chord is a implementation of the Chord lookup algorithm, using WebRTC datachannels as the link between nodes. You can find more about how the algorithm works on [HOW_DOES_IT_WORK](/HOW_DOES_IT_WORD.md)
 
-> DISCLAIMER, THIS IS UNDER ACTIVE DEVELOPMENT, in another words, lot of the docs, tests, features might be a lot of times out of sync, but I'll try to keep consistency and push always a 'working version', this is currently only developed by one person with a tight schedule.
-
 It enables you to communicate between several browsers in a p2p/decentralized fashion.
 
 # How to create a node
