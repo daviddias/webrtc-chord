@@ -1,6 +1,10 @@
 webrtc-chord
 =======================================
 
+> DISCLAIMER: Implementing a full Chord algorithm proved to be an unviable option (due to the high number of data-channels that had to be open inside a browser), please take a look at https://github.com/diasdavid/webrtc-ring for a working and simplier DHT solution 
+
+
+
 **tl;dr** webrtc-chord is a implementation of the Chord lookup algorithm, using WebRTC datachannels as the link between nodes. You can find more about how the algorithm works on [HOW_DOES_IT_WORK](/HOW_DOES_IT_WORD.md)
 
 It enables you to communicate between several browsers in a p2p/decentralized fashion.
