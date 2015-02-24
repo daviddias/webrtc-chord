@@ -1,6 +1,6 @@
 {
   "name": "webrtc-chord",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "description": "Chord DHT Algorithm implementation for the browser using WebRTC and WebSockets ",
   "main": "src/index.js",
   "scripts": {
