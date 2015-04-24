@@ -5,6 +5,8 @@ webrtc-chord
 
 It enables you to communicate between several browsers in a p2p/decentralized fashion.
 
+[![](https://cldup.com/pgZbzoshyV-3000x3000.png)](http://www.gsd.inesc-id.pt/)
+
 # How to create a node
 
   webrtc-chord uses [browserify](http://browserify.org/)
